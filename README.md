@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m @Fynn93
+- 📍 Living in Germany
+- 👀 I’m interested in C, C#, C++, Batch, Bash, Lua Development
+- 🌱 I’m currently learning how to code better in C#
+- 📫 Hit me up at guticfynn@gmail.com, IM LOOKING FOR WORK
+- 😄 Pronouns: He/Him
