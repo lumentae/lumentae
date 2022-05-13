@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: Fynns ISO Patcher
 
-- 👨‍💻 All of my projects are available here or on [https://fynn93.ml/](https://fynn93.ml/)
+- 👨‍💻 All of my projects are available here or on [https://fynn93.tech/](https://fynn93.tech/)
 
 - 💬 Ask me about **C#**
 
