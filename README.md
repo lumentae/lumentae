@@ -7,11 +7,6 @@
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (1 day ago)
 - [lumentae/lattice](https://github.com/lumentae/lattice) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security (3 days ago)
 - [lumentae/WoolAndFire](https://github.com/lumentae/WoolAndFire) - A funny mod adding weird and unexpected features! (1 month ago)
-- [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) - View your saved TikTok music on PC! (1 month ago)
-- [lumentae/lucenox](https://github.com/lumentae/lucenox) - A keyboard for Hackclub's Highway (1 month ago)
-- [lumentae/Logkeepr](https://github.com/lumentae/Logkeepr) - A simple journaling app (2 months ago)
-- [lumentae/personal](https://github.com/lumentae/personal) - My personal website (3 months ago)
-- [hackclub/highway](https://github.com/hackclub/highway) - Get up to $350 to build any hardware project, and come to a 4-day hackathon @ Github HQ! (3 months ago)
 
 #### 🌱 My latest projects
 
