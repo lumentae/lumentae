@@ -18,7 +18,7 @@ jobs:
             -v ${{ github.workspace }}:/data \
             -w /data \
             -e GITHUB_TOKEN=${{ secrets.PERSONAL_GITHUB_TOKEN }} \
-            fribbledom/markscribe \
+            cyteon/markscribe \
             -write README.md templates/readme.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v4
