@@ -1,0 +1,32 @@
+name: Scribe
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 */2 * * *
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Run markscribe Docker image
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}:/data \
+            -w /data \
+            -e GITHUB_TOKEN=${{ secrets.PERSONAL_GITHUB_TOKEN }} \
+            fribbledom/markscribe \
+            -write README.md templates/readme.tpl
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update README
+          branch: main
+          commit_user_name: markscribe
+          commit_user_email: actions@github.com
+          commit_author: markscribe <actions@github.com>
