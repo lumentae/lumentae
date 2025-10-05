@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lumentae/lattice](https://github.com/lumentae/lattice) ([v1.2.0](https://github.com/lumentae/lattice/releases/tag/v1.2.0), today) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) ([1.1.2](https://github.com/lumentae/provisioner/releases/tag/1.1.2), 4 days ago) - A command-line tool for setting up and managing Minecraft servers
-- [lumentae/lattice](https://github.com/lumentae/lattice) ([v1.1.0](https://github.com/lumentae/lattice/releases/tag/v1.1.0), 5 days ago) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security
 - [lumentae/WoolAndFire](https://github.com/lumentae/WoolAndFire) ([1.0](https://github.com/lumentae/WoolAndFire/releases/tag/1.0), 1 month ago) - A funny mod adding weird and unexpected features!
 - [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) ([1.1.0](https://github.com/lumentae/TikTokMusicViewer/releases/tag/1.1.0), 1 month ago) - View your saved TikTok music on PC!
 - [lumentae/CSScratch](https://github.com/lumentae/CSScratch) ([v1.1.1.0](https://github.com/lumentae/CSScratch/releases/tag/v1.1.1.0), 5 months ago) - Transpiles C# into compileable goboscript code
