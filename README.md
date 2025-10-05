@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [lumentae/lattice](https://github.com/lumentae/lattice) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security (today)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 day ago)
 - [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (1 day ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 day ago)
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (3 days ago)
 - [lumentae/WoolAndFire](https://github.com/lumentae/WoolAndFire) - A funny mod adding weird and unexpected features! (1 month ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lumentae/lattice](https://github.com/lumentae/lattice) ([v1.2.0](https://github.com/lumentae/lattice/releases/tag/v1.2.0), today) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security
+- [lumentae/lattice](https://github.com/lumentae/lattice) ([v1.2.1](https://github.com/lumentae/lattice/releases/tag/v1.2.1), today) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) ([1.1.2](https://github.com/lumentae/provisioner/releases/tag/1.1.2), 4 days ago) - A command-line tool for setting up and managing Minecraft servers
 - [lumentae/WoolAndFire](https://github.com/lumentae/WoolAndFire) ([1.0](https://github.com/lumentae/WoolAndFire/releases/tag/1.0), 1 month ago) - A funny mod adding weird and unexpected features!
 - [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) ([1.1.0](https://github.com/lumentae/TikTokMusicViewer/releases/tag/1.1.0), 1 month ago) - View your saved TikTok music on PC!
