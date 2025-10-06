@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (today)
 - [lumentae/lattice](https://github.com/lumentae/lattice) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security (1 day ago)
-- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (1 day ago)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (2 days ago)
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (4 days ago)
 - [lumentae/WoolAndFire](https://github.com/lumentae/WoolAndFire) - A funny mod adding weird and unexpected features! (1 month ago)
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (today)
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (1 day ago)
 - [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. (4 days ago)
 - [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet) - Scramjet is an experimental interception based web proxy designed to evade internet censorship, bypass arbitrary web browser restrictions and innovate web proxy technologies. This project strives to maintain security, developer friendliness and performance unlike many other web proxies regardless of its open source nature.  (1 week ago)
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (1 month ago)
-- [madhephaestus/ESP32Encoder](https://github.com/madhephaestus/ESP32Encoder) - A Quadrature and half quadrature PCNT peripheral driven encoder library supporting 8 encoders (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
