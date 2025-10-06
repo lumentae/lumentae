@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/lattice](https://github.com/lumentae/lattice) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security (today)
-- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (today)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 day ago)
-- [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (3 days ago)
+- [lumentae/lattice](https://github.com/lumentae/lattice) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security (1 day ago)
+- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (1 day ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (2 days ago)
+- [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (4 days ago)
 - [lumentae/WoolAndFire](https://github.com/lumentae/WoolAndFire) - A funny mod adding weird and unexpected features! (1 month ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lumentae/lattice](https://github.com/lumentae/lattice) ([v1.2.1](https://github.com/lumentae/lattice/releases/tag/v1.2.1), today) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security
-- [lumentae/provisioner](https://github.com/lumentae/provisioner) ([1.1.2](https://github.com/lumentae/provisioner/releases/tag/1.1.2), 4 days ago) - A command-line tool for setting up and managing Minecraft servers
+- [lumentae/lattice](https://github.com/lumentae/lattice) ([v1.2.1](https://github.com/lumentae/lattice/releases/tag/v1.2.1), 1 day ago) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security
+- [lumentae/provisioner](https://github.com/lumentae/provisioner) ([1.1.2](https://github.com/lumentae/provisioner/releases/tag/1.1.2), 5 days ago) - A command-line tool for setting up and managing Minecraft servers
 - [lumentae/WoolAndFire](https://github.com/lumentae/WoolAndFire) ([1.0](https://github.com/lumentae/WoolAndFire/releases/tag/1.0), 1 month ago) - A funny mod adding weird and unexpected features!
 - [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) ([1.1.0](https://github.com/lumentae/TikTokMusicViewer/releases/tag/1.1.0), 1 month ago) - View your saved TikTok music on PC!
 - [lumentae/CSScratch](https://github.com/lumentae/CSScratch) ([v1.1.1.0](https://github.com/lumentae/CSScratch/releases/tag/v1.1.1.0), 5 months ago) - Transpiles C# into compileable goboscript code
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (today)
-- [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. (3 days ago)
+- [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (1 day ago)
+- [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. (4 days ago)
 - [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet) - Scramjet is an experimental interception based web proxy designed to evade internet censorship, bypass arbitrary web browser restrictions and innovate web proxy technologies. This project strives to maintain security, developer friendliness and performance unlike many other web proxies regardless of its open source nature.  (1 week ago)
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (1 month ago)
 - [madhephaestus/ESP32Encoder](https://github.com/madhephaestus/ESP32Encoder) - A Quadrature and half quadrature PCNT peripheral driven encoder library supporting 8 encoders (1 month ago)
