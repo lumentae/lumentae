@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) ([v2025.10.09T13-51-35](https://github.com/lumentae/Klassenserver/releases/tag/v2025.10.09T13-51-35), today) - Files for minecraft servers
+- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) ([v2025.10.09T15-53-55](https://github.com/lumentae/Klassenserver/releases/tag/v2025.10.09T15-53-55), today) - Files for minecraft servers
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) ([v1.1.3](https://github.com/lumentae/provisioner/releases/tag/v1.1.3), today) - A command-line tool for setting up and managing Minecraft servers
 - [lumentae/lattice](https://github.com/lumentae/lattice) ([v1.2.1](https://github.com/lumentae/lattice/releases/tag/v1.2.1), 4 days ago) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security
 - [lumentae/WoolAndFire](https://github.com/lumentae/WoolAndFire) ([1.0](https://github.com/lumentae/WoolAndFire/releases/tag/1.0), 1 month ago) - A funny mod adding weird and unexpected features!
