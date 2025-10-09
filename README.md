@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (today)
 - [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (3 days ago)
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (4 days ago)
 - [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. (1 week ago)
 - [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet) - Scramjet is an experimental interception based web proxy designed to evade internet censorship, bypass arbitrary web browser restrictions and innovate web proxy technologies. This project strives to maintain security, developer friendliness and performance unlike many other web proxies regardless of its open source nature.  (2 weeks ago)
-- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
