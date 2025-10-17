@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://count.getloli.com/@lumentae?name=lumentae&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="lumentae" />
+
 #### 👷 Check out what I'm currently working on
 
 - [lumentae/lattice](https://github.com/lumentae/lattice) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security (4 days ago)
