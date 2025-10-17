@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://count.getloli.com/@lumentae?name=lumentae&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="lumentae" />
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
