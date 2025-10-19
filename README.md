@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/lattice](https://github.com/lumentae/lattice) - A mod designed for use on SMP servers, providing a collection of useful features and utilities to enhance player experience and security (6 days ago)
+- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (6 days ago)
 - [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (1 week ago)
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (1 week ago)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 week ago)
