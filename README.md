@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) - View your saved TikTok music on PC! (today)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (today)
 - [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (6 days ago)
 - [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (1 week ago)
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (1 week ago)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 week ago)
-- [lumentae/WoolAndFire](https://github.com/lumentae/WoolAndFire) - A funny mod adding weird and unexpected features! (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
