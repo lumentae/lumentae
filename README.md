@@ -4,15 +4,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) - View your saved TikTok music on PC! (today)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (today)
-- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (6 days ago)
+- [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) - View your saved TikTok music on PC! (1 day ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 day ago)
+- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (1 week ago)
 - [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (1 week ago)
 - [lumentae/provisioner](https://github.com/lumentae/provisioner) - A command-line tool for setting up and managing Minecraft servers (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add release job](https://github.com/lumentae/provisioner/pull/1) on [lumentae/provisioner](https://github.com/lumentae/provisioner) (1 week ago)
+- [Add release job](https://github.com/lumentae/provisioner/pull/1) on [lumentae/provisioner](https://github.com/lumentae/provisioner) (2 weeks ago)
 - [Update submissions.yml](https://github.com/hackclub/highway/pull/621) on [hackclub/highway](https://github.com/hackclub/highway) (4 months ago)
 - [1.8.0](https://github.com/lumentae/ServerMod/pull/1) on [lumentae/ServerMod](https://github.com/lumentae/ServerMod) (5 months ago)
 - [Fix typo](https://github.com/android/platform-samples/pull/161) on [android/platform-samples](https://github.com/android/platform-samples) (2 years ago)
