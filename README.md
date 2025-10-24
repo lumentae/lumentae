@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 day ago)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (today)
 - [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) - View your saved TikTok music on PC! (5 days ago)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (5 days ago)
 - [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (1 week ago)
