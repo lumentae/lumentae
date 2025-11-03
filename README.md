@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (today)
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 day ago)
 - [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) - Unsere Robotik Programme (1 day ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (2 days ago)
 - [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) - View your saved TikTok music on PC! (2 weeks ago)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
