@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (today)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 day ago)
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (2 days ago)
 - [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) - Unsere Robotik Programme (2 days ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (3 days ago)
 - [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) - View your saved TikTok music on PC! (2 weeks ago)
