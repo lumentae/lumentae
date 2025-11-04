@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (today)
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 day ago)
-- [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) - Unsere Robotik Programme (1 day ago)
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (2 days ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 day ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (2 days ago)
+- [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) - Unsere Robotik Programme (2 days ago)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (3 days ago)
 - [lumentae/TikTokMusicViewer](https://github.com/lumentae/TikTokMusicViewer) - View your saved TikTok music on PC! (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Fehlendes git beim passwort hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/7) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (1 day ago)
-- [Install skript durch git clone und pip install requirements verbessern](https://github.com/MOEP-Robotik/Robotik_Moep/pull/6) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 days ago)
-- [Installer skript hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/5) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (4 days ago)
-- [Offene eckige klammer schließen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/4) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (4 days ago)
-- [Abhängigkeiten in Readme.md updaten](https://github.com/MOEP-Robotik/Robotik_Moep/pull/3) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (4 days ago)
+- [Fehlendes git beim passwort hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/7) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 days ago)
+- [Install skript durch git clone und pip install requirements verbessern](https://github.com/MOEP-Robotik/Robotik_Moep/pull/6) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (3 days ago)
+- [Installer skript hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/5) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (5 days ago)
+- [Offene eckige klammer schließen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/4) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (5 days ago)
+- [Abhängigkeiten in Readme.md updaten](https://github.com/MOEP-Robotik/Robotik_Moep/pull/3) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (5 days ago)
 
 #### 👯 Check out some of my friends!
 | [Gandalf2532](https://github.com/Gandalf2532) | [itsmoritz266](https://github.com/itsmoritz266) | [thetechtim](https://github.com/thetechtim) | [int4_t](https://github.com/RewardedIvan) | [daedalus26](https://github.com/FRIES-7) |
