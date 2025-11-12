@@ -4,15 +4,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (today)
-- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (1 day ago)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 day ago)
+- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (1 day ago)
+- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (2 days ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (2 days ago)
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 week ago)
 - [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) - Unsere Robotik Programme (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade to 1.21.10](https://github.com/lumentae/lattice/pull/1) on [lumentae/lattice](https://github.com/lumentae/lattice) (1 day ago)
+- [Upgrade to 1.21.10](https://github.com/lumentae/lattice/pull/1) on [lumentae/lattice](https://github.com/lumentae/lattice) (2 days ago)
 - [Fehlendes git beim passwort hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/7) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (1 week ago)
 - [Install skript durch git clone und pip install requirements verbessern](https://github.com/MOEP-Robotik/Robotik_Moep/pull/6) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (1 week ago)
 - [Installer skript hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/5) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (1 week ago)
