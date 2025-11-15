@@ -4,17 +4,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (2 days ago)
-- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (2 days ago)
-- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (4 days ago)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (4 days ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (3 days ago)
+- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (3 days ago)
+- [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (5 days ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (5 days ago)
 - [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) - Unsere Robotik Programme (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade to 1.21.10](https://github.com/lumentae/lattice/pull/1) on [lumentae/lattice](https://github.com/lumentae/lattice) (4 days ago)
+- [Upgrade to 1.21.10](https://github.com/lumentae/lattice/pull/1) on [lumentae/lattice](https://github.com/lumentae/lattice) (5 days ago)
 - [Fehlendes git beim passwort hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/7) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (1 week ago)
-- [Install skript durch git clone und pip install requirements verbessern](https://github.com/MOEP-Robotik/Robotik_Moep/pull/6) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (1 week ago)
+- [Install skript durch git clone und pip install requirements verbessern](https://github.com/MOEP-Robotik/Robotik_Moep/pull/6) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 weeks ago)
 - [Installer skript hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/5) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 weeks ago)
 - [Offene eckige klammer schließen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/4) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 weeks ago)
 
