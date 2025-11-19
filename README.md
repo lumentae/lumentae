@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (1 day ago)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (3 days ago)
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (6 days ago)
+- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (2 days ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (4 days ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 week ago)
 - [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (1 week ago)
 - [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) - Unsere Robotik Programme (2 weeks ago)
 
