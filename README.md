@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (today)
-- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (2 days ago)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (4 days ago)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 day ago)
+- [lumentae/lattice](https://github.com/lumentae/lattice) - A minecraft mod for server owners (3 days ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (5 days ago)
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 week ago)
 - [lumentae/Klassenserver](https://github.com/lumentae/Klassenserver) - Files for minecraft servers (1 week ago)
 
@@ -15,8 +15,8 @@
 - [Upgrade to 1.21.10](https://github.com/lumentae/lattice/pull/1) on [lumentae/lattice](https://github.com/lumentae/lattice) (1 week ago)
 - [Fehlendes git beim passwort hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/7) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 weeks ago)
 - [Install skript durch git clone und pip install requirements verbessern](https://github.com/MOEP-Robotik/Robotik_Moep/pull/6) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 weeks ago)
-- [Installer skript hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/5) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 weeks ago)
-- [Offene eckige klammer schließen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/4) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 weeks ago)
+- [Installer skript hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/5) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (3 weeks ago)
+- [Offene eckige klammer schließen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/4) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (3 weeks ago)
 
 #### 👯 Check out some of my friends!
 | [Gandalf2532](https://github.com/Gandalf2532) | [itsmoritz266](https://github.com/itsmoritz266) | [thetechtim](https://github.com/thetechtim) | [int4_t](https://github.com/RewardedIvan) | [daedalus26](https://github.com/FRIES-7) |
