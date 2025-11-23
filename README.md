@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [PlutoniumLabs/.github](https://github.com/PlutoniumLabs/.github) -  (today)
 - [PlutoniumLabs/provisioner](https://github.com/PlutoniumLabs/provisioner) - A command-line tool for setting up and managing Minecraft servers (today)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (today)
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 day ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (4 days ago)
-- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A minecraft mod for server owners (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
