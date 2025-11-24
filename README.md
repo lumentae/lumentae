@@ -2,6 +2,9 @@
 
 <img src="https://count.getloli.com/@lumentae?name=lumentae&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="lumentae" />
 
+I mostly do work for [Plutonium Labs](https://github.com/PlutoniumLabs), but I sometimes also create other projects.  
+Go check it out!
+
 #### 👷 Check out what I'm currently working on
 
 - [PlutoniumLabs/.github](https://github.com/PlutoniumLabs/.github) -  (1 day ago)
