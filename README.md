@@ -4,15 +4,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [PlutoniumLabs/.github](https://github.com/PlutoniumLabs/.github) -  (today)
-- [PlutoniumLabs/provisioner](https://github.com/PlutoniumLabs/provisioner) - A command-line tool for setting up and managing Minecraft servers (today)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (today)
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 day ago)
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (4 days ago)
+- [PlutoniumLabs/.github](https://github.com/PlutoniumLabs/.github) -  (1 day ago)
+- [PlutoniumLabs/provisioner](https://github.com/PlutoniumLabs/provisioner) - A command-line tool for setting up and managing Minecraft servers (1 day ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 day ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (2 days ago)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (5 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade to 1.21.10](https://github.com/PlutoniumLabs/lattice/pull/1) on [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) (1 week ago)
+- [Upgrade to 1.21.10](https://github.com/PlutoniumLabs/lattice/pull/1) on [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) (2 weeks ago)
 - [Fehlendes git beim passwort hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/7) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (3 weeks ago)
 - [Install skript durch git clone und pip install requirements verbessern](https://github.com/MOEP-Robotik/Robotik_Moep/pull/6) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (3 weeks ago)
 - [Installer skript hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/5) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (3 weeks ago)
