@@ -7,11 +7,11 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
+- [PlutoniumLabs/.github](https://github.com/PlutoniumLabs/.github) -  (today)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (today)
-- [PlutoniumLabs/.github](https://github.com/PlutoniumLabs/.github) -  (1 day ago)
+- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A minecraft mod for server owners (today)
+- [PlutoniumLabs/YAPME](https://github.com/PlutoniumLabs/YAPME) - Yet another Prometheus metric exporter (today)
 - [PlutoniumLabs/provisioner](https://github.com/PlutoniumLabs/provisioner) - A command-line tool for setting up and managing Minecraft servers (1 day ago)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 day ago)
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (2 days ago)
 
 #### 🔨 My recent Pull Requests
 
