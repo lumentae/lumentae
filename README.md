@@ -7,10 +7,10 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (today)
-- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A minecraft mod for server owners (4 days ago)
-- [PlutoniumLabs/Klassenserver](https://github.com/PlutoniumLabs/Klassenserver) - Files for minecraft servers (5 days ago)
-- [PlutoniumLabs/provisioner](https://github.com/PlutoniumLabs/provisioner) - A command-line tool for setting up and managing Minecraft servers (6 days ago)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 day ago)
+- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A minecraft mod for server owners (5 days ago)
+- [PlutoniumLabs/Klassenserver](https://github.com/PlutoniumLabs/Klassenserver) - Files for minecraft servers (6 days ago)
+- [PlutoniumLabs/provisioner](https://github.com/PlutoniumLabs/provisioner) - A command-line tool for setting up and managing Minecraft servers (1 week ago)
 - [PlutoniumLabs/.github](https://github.com/PlutoniumLabs/.github) -  (1 week ago)
 
 #### 🔨 My recent Pull Requests
