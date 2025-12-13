@@ -7,7 +7,7 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A minecraft mod for server owners (1 day ago)
+- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A minecraft mod for server owners (today)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (2 days ago)
 - [lumentae/scsdrpc](https://github.com/lumentae/scsdrpc) - Discord Rich Presence for SCS Software games (Euro Truck Simulator, American Truck Simulator) (2 days ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (4 days ago)
