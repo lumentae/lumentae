@@ -9,8 +9,8 @@ Go check it out!
 
 - [tempusrary/compiler](https://github.com/tempusrary/compiler) - The Tempusrary compiler (today)
 - [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A minecraft mod for server owners (1 day ago)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (4 days ago)
 - [lumentae/scsdrpc](https://github.com/lumentae/scsdrpc) - Discord Rich Presence for SCS Software games (Euro Truck Simulator, American Truck Simulator) (4 days ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (4 days ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (6 days ago)
 
 #### 🔨 My recent Pull Requests
