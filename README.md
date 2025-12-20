@@ -7,7 +7,7 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A minecraft mod for server owners (3 days ago)
+- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (today)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (5 days ago)
 - [tempusrary/compiler](https://github.com/tempusrary/compiler) - The Tempusrary compiler (5 days ago)
 - [lumentae/scsdrpc](https://github.com/lumentae/scsdrpc) - Discord Rich Presence for SCS Software games (Euro Truck Simulator, American Truck Simulator) (1 week ago)
