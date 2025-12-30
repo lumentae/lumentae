@@ -7,11 +7,11 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (today)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (6 days ago)
 - [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (1 week ago)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (2 weeks ago)
 - [tempusrary/compiler](https://github.com/tempusrary/compiler) - The Tempusrary compiler (2 weeks ago)
-- [lumentae/scsdrpc](https://github.com/lumentae/scsdrpc) - Discord Rich Presence for SCS Software games (Euro Truck Simulator, American Truck Simulator) (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
