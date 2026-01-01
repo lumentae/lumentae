@@ -7,7 +7,7 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 day ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (2 days ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 week ago)
 - [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (1 week ago)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (2 weeks ago)
@@ -16,7 +16,7 @@ Go check it out!
 #### 🔨 My recent Pull Requests
 
 - [Upgrade to 1.21.10](https://github.com/PlutoniumLabs/lattice/pull/1) on [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) (1 month ago)
-- [Fehlendes git beim passwort hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/7) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (1 month ago)
+- [Fehlendes git beim passwort hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/7) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 months ago)
 - [Install skript durch git clone und pip install requirements verbessern](https://github.com/MOEP-Robotik/Robotik_Moep/pull/6) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 months ago)
 - [Installer skript hinzufügen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/5) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 months ago)
 - [Offene eckige klammer schließen](https://github.com/MOEP-Robotik/Robotik_Moep/pull/4) on [MOEP-Robotik/Robotik_Moep](https://github.com/MOEP-Robotik/Robotik_Moep) (2 months ago)
