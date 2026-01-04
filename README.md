@@ -7,7 +7,7 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (4 days ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (5 days ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 week ago)
 - [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (2 weeks ago)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (2 weeks ago)
