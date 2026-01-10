@@ -7,7 +7,7 @@ Go check it out!
 
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 week ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (2 weeks ago)
-- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (2 weeks ago)
+- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (3 weeks ago)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (3 weeks ago)
 - [tempusrary/compiler](https://github.com/tempusrary/compiler) - The Tempusrary compiler (3 weeks ago)
 
