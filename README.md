@@ -5,18 +5,18 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) -  (today)
-- [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) - Repo für unsere Web-App (today)
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (6 days ago)
+- [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) -  (1 day ago)
+- [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) - Repo für unsere Web-App (1 day ago)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 week ago)
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (2 weeks ago)
-- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (4 weeks ago)
+- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add email receipt](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/2) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (today)
-- [Send data from frontend to backend](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/4) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (4 days ago)
-- [Hello Vite!](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/3) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (5 days ago)
-- [Goodbye vite!](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/1) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (6 days ago)
+- [Add email receipt](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/2) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (1 day ago)
+- [Send data from frontend to backend](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/4) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (5 days ago)
+- [Hello Vite!](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/3) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (6 days ago)
+- [Goodbye vite!](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/1) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (1 week ago)
 - [Upgrade to 1.21.10](https://github.com/PlutoniumLabs/lattice/pull/1) on [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) (2 months ago)
 
 #### 👯 Check out some of my friends!
