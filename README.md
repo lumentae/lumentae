@@ -5,7 +5,7 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) - Repo für unsere Web-App (2 days ago)
+- [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) - Repo für unsere Web-App (today)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 week ago)
 - [lumentae/schulmanager2ical](https://github.com/lumentae/schulmanager2ical) -  (1 week ago)
 - [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) -  (2 weeks ago)
@@ -13,11 +13,11 @@ Go check it out!
 
 #### 🔨 My recent Pull Requests
 
+- [Account reform](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/8) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (today)
 - [Account reform](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/26) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (2 days ago)
 - [Settings page](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/22) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (2 days ago)
 - [Leaflet vector maps](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/21) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (3 days ago)
 - [Add email receipt](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/2) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (2 weeks ago)
-- [Send data from frontend to backend](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/4) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (2 weeks ago)
 
 #### 👯 Check out some of my friends!
 | [Gandalf2532](https://github.com/Gandalf2532) | [thetechtim](https://github.com/thetechtim) | [int4_t](https://github.com/RewardedIvan) | [itsmoritz266](https://github.com/itsmoritz266) | [nooa26](https://github.com/nooa26) |
