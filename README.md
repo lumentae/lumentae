@@ -7,7 +7,7 @@ Go check it out!
 
 - [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) - Repo für unsere Web-App (1 week ago)
 - [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) -  (1 week ago)
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (3 weeks ago)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (4 weeks ago)
 - [lumentae/schulmanager2ical](https://github.com/lumentae/schulmanager2ical) -  (1 month ago)
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 month ago)
 
