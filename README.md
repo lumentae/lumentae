@@ -5,11 +5,11 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
+- [lumentae/Ardio](https://github.com/lumentae/Ardio) - A simple Windows volume mixer controller for Arduino (today)
 - [lumentae/netdeck](https://github.com/lumentae/netdeck) - Programmable UI for Android devices using C# (today)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (4 days ago)
 - [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) -  (5 days ago)
 - [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) - Repo für unsere Web-App (5 days ago)
-- [lumentae/schulmanager2ical](https://github.com/lumentae/schulmanager2ical) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
