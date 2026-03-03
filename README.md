@@ -5,18 +5,18 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/Ardio](https://github.com/lumentae/Ardio) - A simple Windows volume mixer controller for Arduino (today)
-- [lumentae/netdeck](https://github.com/lumentae/netdeck) - Programmable UI for Android devices using C# (today)
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (4 days ago)
-- [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) -  (5 days ago)
-- [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) - Repo für unsere Web-App (5 days ago)
+- [lumentae/Ardio](https://github.com/lumentae/Ardio) - A simple Windows volume mixer controller for Arduino (1 day ago)
+- [lumentae/netdeck](https://github.com/lumentae/netdeck) - Programmable UI for Android devices using C# (1 day ago)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (5 days ago)
+- [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) -  (6 days ago)
+- [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) - Repo für unsere Web-App (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
 - [Lvr anforderungen](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/33) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (2 weeks ago)
-- [Account reform](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/8) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (3 weeks ago)
-- [Account reform](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/26) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (4 weeks ago)
-- [Settings page](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/22) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (4 weeks ago)
+- [Account reform](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/8) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (4 weeks ago)
+- [Account reform](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/26) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (1 month ago)
+- [Settings page](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/22) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (1 month ago)
 - [Leaflet vector maps](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/21) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (1 month ago)
 
 #### 👯 Check out some of my friends!
