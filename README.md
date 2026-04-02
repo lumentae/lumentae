@@ -5,7 +5,7 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (today)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 day ago)
 - [lumentae/Ardio](https://github.com/lumentae/Ardio) - A simple Windows volume mixer controller for Arduino (1 month ago)
 - [lumentae/netdeck](https://github.com/lumentae/netdeck) - Programmable UI for Android devices using C# (1 month ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 month ago)
@@ -15,8 +15,8 @@ Go check it out!
 
 - [Lvr anforderungen](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/33) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (1 month ago)
 - [Account reform](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/8) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (1 month ago)
-- [Account reform](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/26) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (1 month ago)
-- [Settings page](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/22) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (1 month ago)
+- [Account reform](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/26) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (2 months ago)
+- [Settings page](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/22) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (2 months ago)
 - [Leaflet vector maps](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/21) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (2 months ago)
 
 #### 👯 Check out some of my friends!
