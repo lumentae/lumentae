@@ -9,7 +9,7 @@ Go check it out!
 - [lumentae/Ardio](https://github.com/lumentae/Ardio) - A simple Windows volume mixer controller for Arduino (1 month ago)
 - [lumentae/netdeck](https://github.com/lumentae/netdeck) - Programmable UI for Android devices using C# (1 month ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 month ago)
-- [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) - Repo für unsere Web-App (1 month ago)
+- [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
