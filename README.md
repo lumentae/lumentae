@@ -5,7 +5,7 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 day ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (today)
 - [lumentae/netdeck](https://github.com/lumentae/netdeck) - Programmable UI for Android devices using C# (1 month ago)
 - [lumentae/Ardio](https://github.com/lumentae/Ardio) - A simple Windows volume mixer controller for Arduino (1 month ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 month ago)
