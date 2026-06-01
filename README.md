@@ -5,11 +5,11 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
+- [lumentae/Welle](https://github.com/lumentae/Welle) - An offline-first native and cross-platform Navidrome music player with low resource consumption (today)
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 week ago)
 - [lumentae/netdeck](https://github.com/lumentae/netdeck) - Programmable UI for Android devices using C# (3 months ago)
 - [lumentae/Ardio](https://github.com/lumentae/Ardio) - A simple Windows volume mixer controller for Arduino (3 months ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (3 months ago)
-- [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) - Repo für unsere Web-App (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
