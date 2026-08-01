@@ -7,7 +7,7 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (today)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 day ago)
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 week ago)
 - [lumentae/Welle](https://github.com/lumentae/Welle) - An offline-first native and cross-platform Navidrome music player with low resource consumption (2 weeks ago)
 - [lumentae/qlab-ai-cue](https://github.com/lumentae/qlab-ai-cue) - Using local AI models to automatically create cues for QLab (1 month ago)
