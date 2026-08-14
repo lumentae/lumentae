@@ -7,8 +7,8 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/Welle](https://github.com/lumentae/Welle) - An offline-first native and cross-platform Navidrome music player with low resource consumption (5 days ago)
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 week ago)
+- [lumentae/Welle](https://github.com/lumentae/Welle) - An offline-first native and cross-platform Navidrome music player with low resource consumption (6 days ago)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (2 weeks ago)
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (3 weeks ago)
 - [lumentae/qlab-ai-cue](https://github.com/lumentae/qlab-ai-cue) - Using local AI models to automatically create cues for QLab (1 month ago)
 - [lumentae/netdeck](https://github.com/lumentae/netdeck) - Programmable UI for Android devices using C# (5 months ago)
