@@ -7,10 +7,10 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/Welle](https://github.com/lumentae/Welle) - An offline-first native and cross-platform Navidrome music player with low resource consumption (2 days ago)
-- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (2 days ago)
+- [lumentae/Welle](https://github.com/lumentae/Welle) - An offline-first native and cross-platform Navidrome music player with low resource consumption (3 days ago)
+- [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (3 days ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (3 weeks ago)
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (4 weeks ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 month ago)
 - [lumentae/qlab-ai-cue](https://github.com/lumentae/qlab-ai-cue) - Using local AI models to automatically create cues for QLab (1 month ago)
 
 #### 🔨 My recent Pull Requests
