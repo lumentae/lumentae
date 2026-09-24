@@ -11,7 +11,7 @@ Go check it out!
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 month ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 month ago)
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (2 months ago)
-- [lumentae/qlab-ai-cue](https://github.com/lumentae/qlab-ai-cue) - Using local AI models to automatically create cues for QLab (2 months ago)
+- [lumentae/qlab-ai-cue](https://github.com/lumentae/qlab-ai-cue) - Using local AI models to automatically create cues for QLab (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
