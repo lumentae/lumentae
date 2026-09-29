@@ -7,18 +7,18 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (today)
-- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (today)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 day ago)
+- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (1 day ago)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 month ago)
 - [lumentae/Welle](https://github.com/lumentae/Welle) - An offline-first native and cross-platform Navidrome music player with low resource consumption (1 month ago)
-- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (1 month ago)
+- [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
 - [Lvr anforderungen](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/33) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (7 months ago)
 - [Account reform](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/8) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (7 months ago)
-- [Account reform](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/26) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (7 months ago)
-- [Settings page](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/22) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (7 months ago)
+- [Account reform](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/26) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (8 months ago)
+- [Settings page](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/22) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (8 months ago)
 - [Leaflet vector maps](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/21) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (8 months ago)
 
 #### 👯 Check out some of my friends!
