@@ -7,8 +7,8 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (today)
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (6 days ago)
+- [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (1 day ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 week ago)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (1 month ago)
 - [lumentae/Welle](https://github.com/lumentae/Welle) - An offline-first native and cross-platform Navidrome music player with low resource consumption (1 month ago)
 - [lumentae/personal-site](https://github.com/lumentae/personal-site) - A personal site (2 months ago)
