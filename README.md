@@ -7,19 +7,19 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/redstonoscope](https://github.com/lumentae/redstonoscope) -  (1 day ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 day ago)
+- [lumentae/redstonoscope](https://github.com/lumentae/redstonoscope) -  (2 days ago)
 - [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (1 week ago)
 - [PlutoniumLabs/Klassenserver](https://github.com/PlutoniumLabs/Klassenserver) - Files for minecraft servers (3 weeks ago)
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 month ago)
 - [lumentae/Welle](https://github.com/lumentae/Welle) - An offline-first native and cross-platform Navidrome music player with low resource consumption (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Fix bootstrap.sh merge conflicts](https://github.com/lumentae/dots/pull/1) on [lumentae/dots](https://github.com/lumentae/dots) (1 day ago)
 - [Lvr anforderungen](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/33) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (9 months ago)
 - [Account reform](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/8) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (9 months ago)
 - [Account reform](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/26) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (9 months ago)
 - [Settings page](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/22) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (9 months ago)
-- [Leaflet vector maps](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/21) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (9 months ago)
 
 #### 👯 Check out some of my friends!
 | [Gandalf2532](https://github.com/Gandalf2532) | [thetechtim](https://github.com/thetechtim) | [int4_t](https://github.com/RewardedIvan) | [itsmoritz266](https://github.com/itsmoritz266) | [nooa26](https://github.com/nooa26) |
