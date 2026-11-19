@@ -7,7 +7,7 @@ Go check it out!
 
 #### 👷 Check out what I'm currently working on
 
-- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (3 days ago)
+- [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (4 days ago)
 - [lumentae/redstonoscope](https://github.com/lumentae/redstonoscope) -  (1 week ago)
 - [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (2 weeks ago)
 - [PlutoniumLabs/Klassenserver](https://github.com/PlutoniumLabs/Klassenserver) - Files for minecraft servers (1 month ago)
@@ -15,7 +15,7 @@ Go check it out!
 
 #### 🔨 My recent Pull Requests
 
-- [Fix bootstrap.sh merge conflicts](https://github.com/lumentae/dots/pull/1) on [lumentae/dots](https://github.com/lumentae/dots) (6 days ago)
+- [Fix bootstrap.sh merge conflicts](https://github.com/lumentae/dots/pull/1) on [lumentae/dots](https://github.com/lumentae/dots) (1 week ago)
 - [Lvr anforderungen](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/33) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (9 months ago)
 - [Account reform](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/8) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (9 months ago)
 - [Account reform](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/26) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (9 months ago)
