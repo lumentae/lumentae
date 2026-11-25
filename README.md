@@ -8,7 +8,7 @@ Go check it out!
 #### 👷 Check out what I'm currently working on
 
 - [lumentae/dots](https://github.com/lumentae/dots) - my dotfiles (1 week ago)
-- [lumentae/redstonoscope](https://github.com/lumentae/redstonoscope) -  (1 week ago)
+- [lumentae/redstonoscope](https://github.com/lumentae/redstonoscope) -  (2 weeks ago)
 - [PlutoniumLabs/lattice](https://github.com/PlutoniumLabs/lattice) - A mod designed for SMP servers, with a lot of useful features and utilities! (3 weeks ago)
 - [PlutoniumLabs/Klassenserver](https://github.com/PlutoniumLabs/Klassenserver) - Files for minecraft servers (1 month ago)
 - [lumentae/actions](https://github.com/lumentae/actions) - A collection of useful github actions (3 months ago)
