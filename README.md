@@ -15,7 +15,7 @@ Go check it out!
 
 #### 🔨 My recent Pull Requests
 
-- [Fix bootstrap.sh merge conflicts](https://github.com/lumentae/dots/pull/1) on [lumentae/dots](https://github.com/lumentae/dots) (1 week ago)
+- [Fix bootstrap.sh merge conflicts](https://github.com/lumentae/dots/pull/1) on [lumentae/dots](https://github.com/lumentae/dots) (2 weeks ago)
 - [Lvr anforderungen](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/33) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (9 months ago)
 - [Account reform](https://github.com/MOEP-Robotik/fll_2026_servercode/pull/8) on [MOEP-Robotik/fll_2026_servercode](https://github.com/MOEP-Robotik/fll_2026_servercode) (9 months ago)
 - [Account reform](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026/pull/26) on [MOEP-Robotik/Forschungsprojekt_fll_2026](https://github.com/MOEP-Robotik/Forschungsprojekt_fll_2026) (9 months ago)
